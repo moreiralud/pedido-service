@@ -1,3 +1,10 @@
+/target
+/.idea
+*.iml
+*.log
+*.class
+.DS_Store
+.env
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
